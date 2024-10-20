@@ -1,23 +1,24 @@
 # icecream project
 
-An innovative chatbot device that combines advanced AI capabilities with real-time voice interaction and dynamic visual feedback.
+Icecream: the fastest way to build your voice-enabled AI hardware stack.
 
 ## Overview
 
-This project showcases a cutting-edge chatbot that leverages GPT-4 for natural language processing, integrates voice recognition and synthesis, and incorporates Stable Video Diffusion for generating responsive animations. It's designed to provide an engaging, multi-modal interaction experience.
+Icecream makes hardware one less thing to worry about by offering a seamless infrastructure for Conversational Al, allowing you to focus on what truly matters-creating a great user experience for your users.
+
+Icecream comes prebuilt with firmware and hardware to build your conversational AI Device. Press the Home button to talk to a customizable voice assistant, Icecream also comes with a customizable button to trigger a custom action, this could be taking notes or giving you pro-active feedback as you go about your daily life or anything above and beyond.
 
 ## Key Features
 
-- AI-driven conversational abilities powered by GPT-4
+- AI-driven conversational abilities powered by LLMs
 - Real-time voice input and output using Pipecat and Daily
-- Dynamic animation generation using Stable Video Diffusion
 - Seamless video conferencing integration via Daily.co
 - Persistent conversation logging and retrieval
 
 ## Technical Stack
 
 - Backend: Python with FastAPI
-- AI Model: custom model
+- AI Model: Custom choice of models
 - Real-time Communication: Pipecat and Daily
 - Speech Processing: PyAudio
 - Video Conferencing: Daily.co API
@@ -58,11 +59,11 @@ This project showcases a cutting-edge chatbot that leverages GPT-4 for natural l
 - `client/`: Client-side scripts
   - `pyaudio-run.py`: Voice interaction handler
   - `notes-run.py`: Conversation logging system
+  - `main.py`: Main python script
 - `requirements.txt`: Python dependencies
 
 ## Acknowledgements
 
-- OpenAI for GPT-4
 - Daily.co for video conferencing capabilities
 - Pipecat for real-time communication
 - The open-source community for various libraries and tools used in this project
