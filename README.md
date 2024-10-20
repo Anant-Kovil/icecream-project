@@ -2,6 +2,8 @@
 
 Icecream: the fastest way to build your voice-enabled AI hardware stack.
 
+![Uploading Screenshot 2024-10-20 at 3.59.24 PM.png…]()
+
 ## Overview
 
 Icecream makes hardware one less thing to worry about by offering a seamless infrastructure for Conversational Al, allowing you to focus on what truly matters-creating a great user experience for your users.
