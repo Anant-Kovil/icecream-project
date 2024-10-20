@@ -2,7 +2,7 @@
 
 Icecream: the fastest way to build your voice-enabled AI hardware stack.
 
-![Uploading Screenshot 2024-10-20 at 3.59.24 PM.png…]()
+<img width="399" alt="Screenshot 2024-10-20 at 4 00 56 PM" src="https://github.com/user-attachments/assets/f7d5a91f-e7cd-44d8-976d-2ccabe5b8865">
 
 ## Overview
 
